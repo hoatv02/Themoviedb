@@ -1,0 +1,9 @@
+{
+  "printWidth": 120,
+  "trailingComma": "es5",
+  "semi": false,
+  "no-mixed-spaces-and-tabs": ["error", "smart-tabs"],
+  "no-unused-vars": ["error"],
+  "tabWidth": 2,
+  "bracketSameLine": false
+}
